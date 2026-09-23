@@ -27,8 +27,6 @@
 - How has employee hiring changed over the years?
 
 # Project Insights
-- Gender Filter
-- Project Insights
 - Total Employees: 9,964
 - Active Employees: 8,674
 - Leavers: 1,290
