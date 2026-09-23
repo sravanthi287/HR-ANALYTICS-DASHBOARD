@@ -26,7 +26,7 @@
 - How does salary vary across locations?
 - How has employee hiring changed over the years?
 
-  # Project Insights
+# Project Insights
 - Gender Filter
 - Project Insights
 - Total Employees: 9,964
